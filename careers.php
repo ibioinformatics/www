@@ -133,6 +133,25 @@ function MM_preloadImages() { //v3.0
 
 <?php $Count=0; ?>
 <!-- <img src="images/JRF_flyer_new.gif" width="650" height="1020"> -->
+<p><b><?php echo ++$Count; ?>. Research Scientist Position at Institute of Bioinformatics, Bangalore with a 2-Year Training Phase at Mayo Clinic, USA</b></p>
+<p>A Research Scientist position is available at the Institute of Bioinformatics, Bangalore (<a href="http://www.ibioinformatics.org">http://www.ibioinformatics.org</a>). As part of this position, the candidate will be funded to undertake a 2-year training phase in Dr. Akhilesh Pandey’s laboratory at Mayo Clinic in Rochester, Minnesota, USA. During this training phase in the USA, the candidate will be paid a competitive salary commensurate with experience (minimum $44,000/year). At the end of training phase, the candidate is expected to take up a Research Scientist (Faculty) position at the Institute of Bioinformatics, Bangalore and an undertaking regarding the same has to be provided by the candidate at the time of selection.</p>
+<p>The Institute of Bioinformatics is a non-profit systems biology research institute carrying out pioneering research in the fields of cancer biology, neurological disorders, infectious diseases and inherited genetic disorders using a number of platforms including genomics, proteomics and computational biology.</p>
+<p>Dr. Pandey’s laboratory (currently at Johns Hopkins University in Baltimore, USA; <a href="http://pandeylab.igm.jhmi.edu" target="_blank">http://pandeylab.igm.jhmi.edu</a>) combines molecular biology, proteomics and genomics to investigate protein-protein interactions and signalling mechanisms underlying pathogenesis of various human diseases including cancer. The selected candidate will perform highly interdisciplinary and collaborative research working with human cell lines, mouse models, and CRISPR/Cas9-based genome editing. Interested candidates should send a single PDF document including a motivation letter, CV and names of three referees to <a href="mailto:careers@ibioinformatics.org">careers@ibioinformatics.org</a>.</p>
+
+<p><b>Required Qualifications:</b></p>
+<p>
+        <ol>
+                <li> Ph.D. in Biology, Biochemistry, Genetics or a related field</li>
+                <li> Strong experimental background in molecular biology, cell culture and in vivo cancer models</li>
+                <li> Strong track record of scientific productivity as evidenced by first authored publications in peer-reviewed journals</li>
+                <li> Very good communication and interpersonal skills</li>
+                <li> Knowledge in genomic and proteomic data analysis will be a major asset</li>
+        </ol>
+        </p>
+
+<p><b>Salary:</b></p>
+<p>The salary for the 2-year training phase in the USA will be commensurate with experience (minimum $44,000/year). Upon return to the Institute of Bioinformatics, the salary will be as per institutional norms in India for a Research Scientist (Faculty position).</p>
+<p>Last date for applications is May 31, 2018. </p>
 
 <p><b><?php echo ++$Count; ?>. Ph.D. Studentships in Computational Biology</b></p>
 <p>
