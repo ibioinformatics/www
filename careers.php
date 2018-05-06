@@ -151,8 +151,33 @@ function MM_preloadImages() { //v3.0
 
 <p><b>Salary:</b></p>
 <p>The salary for the 2-year training phase in the USA will be commensurate with experience (minimum $44,000/year). Upon return to the Institute of Bioinformatics, the salary will be as per institutional norms in India for a Research Scientist (Faculty position).</p>
-<p>Last date for applications is May 31, 2018. </p>
+<p><b>Last date for application:</b> May 31, 2018. </p>
+<p>&nbsp;</p>
+<p><b><?php echo ++$Count; ?>. Ph.D. Fellowships for Physician Scientist Training Program</b></p>
 
+<p>Institute of Bioinformatics in Bangalore (<a href="http://www.ibioinformatics.org">http://www.ibioinformatics.org</a>) is a non-profit, interdisciplinary research institute. In collaboration with Manipal Academy of Higher Education (MAHE), Manipal, the Institute of Bioinformatics has established a Physician Scientist Training Program with the specific mandate of training physicians in the basic biomedical sciences. We are offering Ph.D. positions to physicians with MBBS or advanced medical degrees who are interested in pursuing basic research. This is for full-time research and will generally require 3 years.</p>
+
+<p>This is an exciting opportunity for physicians to obtain excellent training in state-of-the-art techniques in molecular biology and interdisciplinary sciences that will include the use of genomics, proteomics and computational biology platforms to pursue questions to study a broad variety of human diseases with special emphasis on cancer biology, neurological disorders, infectious diseases and inherited genetic disorders.</p>
+
+<p> The Ph.D. thesis work for the selected physicians will be tailored to suit their academic background and research interests and will be carried out at the Institute of Bioinformatics. There are excellent opportunities to interface with clinicians at a number of hospitals and academic medical centers that have ongoing collaborations with the Institute of Bioinformatics including Kidwai Memorial Institute of Oncology in Bangalore, National Institute of Mental Health and NeuroSciences (NIMHANS) in Bangalore and Kasturba Medical College in Manipal. The Ph.D. degree for this unique program will be awarded by the Manipal Academy of Higher Education (MAHE), Manipal.</p>
+
+<p>Interested candidates should send one PDF document including a motivation letter, CV, publication list and contact information for at least three referees to <a href="mailto:careers@ibioinformatics.org">careers@ibioinformatics.org</a>.</p>
+
+<p><b>Required Qualifications:</b></p>
+<p>
+        <ol>
+		<li> MBBS alone or with specialty training (e.g. DNB, MD degrees)</li>
+		<li> Strong interest in pursuing basic research</li>
+		<li> Candidates with prior research experience and publication record will be preferred</li>
+		<li> Candidate with specialization in pathology, microbiology or biochemistry will be given special consideration</li>
+		<li> Good communication and interpersonal skills</li>
+        </ol>
+        </p>
+
+<p><b>Salary:</b></p>
+<p>Candidates will receive Rs. 50,000/month or higher based on their qualifications/experience. </p>
+<p><b>Last date for application:</b> June 30, 2018. </p>
+<p>&nbsp;</p>
 <p><b><?php echo ++$Count; ?>. Ph.D. Studentships in Computational Biology</b></p>
 <p>
 Applications are invited from talented and passionate candidates to work on several next generation sequencing (NGS)-based research studies as well as proteomic studies and pursue their Ph.D. in Computational Biology at the Institute of Bioinformatics (IOB) in Bangalore (http://www.ibioinformatics.org). The selected candidates will be enrolled for their Ph.D. at Manipal Academy of Higher Education (MAHE), Manipal. The thrust areas of IOB include infectious diseases, neurological disorders, cancer biology and computational biology. The selected candidates will undergo excellent training in next generation sequencing methods as well as Big Data analysis with opportunity to work on data generated from next generation sequencing methods such as whole genome/exome sequencing, transcriptome sequencing and small RNA sequencing. IOB is also internationally known for mass spectrometry-based proteomics, which provides opportunities to work on multi-omics studies such as proteogenomics, metabolomics, pathways and interaction networks.  </p>
@@ -174,7 +199,7 @@ Applications are invited from talented and passionate candidates to work on seve
 	<p>Send your CVs to: careers [at] ibioinformatics [dot] org and write &quot;Ph.D.
 	  Studentships in Computational Biology&quot; in the Subject field of your e-mail.</p>
 	  
-    <p>Last date for applications is May 15, 2018. </p>
+    <p><b>Last date for application:</b> May 15, 2018. </p>
 <!--
 <p><b>Qualifications for SRF (5 positions):</b></p>
 <p>
