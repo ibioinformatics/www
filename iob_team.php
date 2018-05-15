@@ -301,25 +301,7 @@ including cancer biomarkers, proteogenomics and human genome analysis.<br></p>  
             <tr>
               <td align="left" valign="top" bgcolor="#FFFFFF"><img style="padding: 2 2 2 2; border: solid 1px #9B989A;" src="images/krishna.jpg"  ></td>
               <td height="39" colspan="5" bgcolor="#FFFFFF" valign="top"><p align="justify" style="padding:4 4 4 4;" ><strong>Dr.
-                Krishna R. Murthy </strong>obtained his M.B.B.S. degree from
-                Bangalore Medical College in Bangalore, India and completed
-                his specialty training in Ophthalmology at the Minto Regional
-                Institute of Ophthalmology also in Bangalore. He completed
-                a Vitreoretinal Fellowship and research training at Sankara
-                Nethralaya in Chennai, India. Currently, he is practicing
-                as a vitreoretinal surgeon at the Vittala International Institute
-                of Ophthalmology and the Prabha Eye Clinic and Research Centre,
-                both in Bangalore. He is a member of the prestigious Royal
-                College of Ophthalmologists in London. In collaboration with
-                the World Diabetes Foundation, he is driving highly successful
-                projects such as NAYANA and CODE, which are mobile ophthalmic
-                units involved in the detection and treatment of diabetic
-                retinopathy in rural and semiurban areas of Karnataka. His
-                research areas include diabetic retinopathy, retinopathy
-                of prematurity, neuroophthalmology and HIV-related ophthalmic
-                diseases. At IOB, he is carrying out proteomic investigation
-                of vitreous humour of the human eye in diverse pathological
-                conditions.</p>
+                Krishna R. Murthy </strong>obtained his M.B.B.S. degree from Bangalore Medical College in Bangalore, India and completed his specialty training in Ophthalmology at the Minto Regional Institute of Ophthalmology also in Bangalore. He completed a Vitreoretinal Fellowship and research training at Sankara Nethralaya in Chennai, India. He is a member of the Royal College of Ophthalmologists, London (MRCOphth) and obtained his Ph.D. from Amrita Vishwa Vidyapeetham for his studies on proteomics of vitreous and aqueous humor.  Currently, he is practicing as a vitreoretinal surgeon at the Vittala International Institute of Ophthalmology and the Prabha Eye Clinic and Research Centre, both in Bangalore. His research areas include diabetic retinopathy, retinopathy of prematurity, neuroophthalmology and HIV-related ophthalmic diseases. He has been instrumental in establishing a mobile diabetic retinopathy and glaucoma treatment unit funded by the World Diabetes Foundation. He directs one of the largest tele-ophthalmological screening programs in India for retinopathy of prematurity, which affects premature neonates called the “Vittala ROP project.”</p>
                 <p align="justify" style="padding:4 4 4 4;" >E-mail : <a href="mailto:krishna@ibioinformatics.org">krishna
                   at ibioinformatics dot org</a></p></td>
             </tr>
