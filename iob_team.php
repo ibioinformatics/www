@@ -698,10 +698,7 @@ of patient samples to find disease-specific biomarkers.
                       <br>
 			  E-Mail: <a href="mailto:jyoti@ibioinformatics.org">jyoti at ibioinformatics dot org </a></p>              </td>
             </tr>
-		<tr>
-                <td  bgcolor="#FFFFFF"></td>
-                <td height="10"  align="right" bgcolor="#FFFFFF" colspan="6"><a href="#top">TOP</a></td>
-		</tr>
+
 
 <!--
 <tr>
@@ -1256,6 +1253,10 @@ interactions and signal transduction pathways.-->
             </tr>
 
 			<tr>
+              <td  bgcolor="#FFFFFF"></td>
+              <td height="10"  align="right" bgcolor="#FFFFFF" colspan="6"><a href="#top">TOP</a></td>
+            </tr>
+			<tr>
               <td width="100" align="left" valign="top" bgcolor="#FFFFFF"><img style="padding: 2 2 2 2; border: solid 1px #9B989A;"src="images/daisy.jpg" ></td>
               <td height="39" colspan="5" bgcolor="#FFFFFF" valign="top"><p align="justify" style="padding:4 4 4 4;" ><strong>Dr.
                     Daisy Vanitha John </strong>obtained her Ph.D. degree at
@@ -1276,7 +1277,10 @@ interactions and signal transduction pathways.-->
                 <br>
               E-Mail: <a href="mailto:daisy@ibioinformatics.org">daisy at ibioinformatics dot org </a></p>              </td>
             </tr>
-
+			<tr>
+              <td  bgcolor="#FFFFFF"></td>
+              <td height="10"  align="right" bgcolor="#FFFFFF" colspan="6"><a href="#top">TOP</a></td>
+            </tr>
 
 			<tr>
               <td width="100" align="left" valign="top" bgcolor="#FFFFFF"><img style="padding: 2 2 2 2; border: solid 1px #9B989A;"src="images/rajpriya.jpg" ></td>
@@ -1284,7 +1288,23 @@ interactions and signal transduction pathways.-->
                 <br>
               E-Mail: <a href="mailto:priya@ibioinformatics.org">priya at ibioinformatics dot org </a></p>              </td>
             </tr>
+
+			<tr>
+              <td  bgcolor="#FFFFFF"></td>
+              <td height="10"  align="right" bgcolor="#FFFFFF" colspan="6"><a href="#top">TOP</a></td>
+            </tr>			
+			<tr>
+              <td width="100" align="left" valign="top" bgcolor="#FFFFFF"><img style="padding: 2 2 2 2; border: solid 1px #9B989A;"src="images/smrita.jpg" ></td>
+              <td height="39" colspan="5" bgcolor="#FFFFFF" valign="top"><p align="justify" style="padding:4 4 4 4;" ><strong>Dr. Smrita Singh </strong>obtained her medical degree from Gauhati Medical College in Guwahati, India and completed her specialty training (Diplomate of National Board) in Pathology from Kidwai Memorial Institute of Oncology in Bangalore, India. She worked as a medical officer and as a Senior Resident in Pathology prior to joining IOB. She is enrolled in the joint IOB-MAHE Physician Scientist Training Program and is pursuing her Ph.D. in applying genomics and proteomics to study a number of cancers.<br>                      
+                <br>
+              E-Mail: <a href="mailto:smrita@ibioinformatics.org">smrita at ibioinformatics dot org </a></p>              </td>
+            </tr>			
 			
+
+			<tr>
+              <td  bgcolor="#FFFFFF"></td>
+              <td height="10"  align="right" bgcolor="#FFFFFF" colspan="6"><a href="#top">TOP</a></td>
+            </tr>
 			<tr>
               <td width="100" align="left" valign="top" bgcolor="#FFFFFF"><img style="padding: 2 2 2 2; border: solid 1px #9B989A;"src="images/akshada.jpg" ></td>
               <td height="39" colspan="5" bgcolor="#FFFFFF" valign="top"><p align="justify" style="padding:4 4 4 4;" ><strong>Akshada Gajbhiye </strong>obtained
@@ -1300,6 +1320,10 @@ interactions and signal transduction pathways.-->
               E-Mail: <a href="mailto:akshada@ibioinformatics.org">akshada at ibioinformatics dot org </a></p>              </td>
             </tr>
 
+			<tr>
+              <td  bgcolor="#FFFFFF"></td>
+              <td height="10"  align="right" bgcolor="#FFFFFF" colspan="6"><a href="#top">TOP</a></td>
+            </tr>
             <tr>
               <td width="100" align="left" valign="top" bgcolor="#FFFFFF"><img style="padding: 2 2 2 2; border: solid 1px #9B989A;"src="images/ajay_kumar.jpg" ></td>
               <td height="39" colspan="5" bgcolor="#FFFFFF" valign="top"><p align="justify" style="padding:4 4 4 4;" ><strong>Ajay Kumar </strong> obtained his M.Sc. degree in Medical Microbiology from Bundelkhand University in Jhansi. Subsequently, he was at Kasturba Medical College in Manipal where he carried out his Ph.D. work on strain diversity and relative transmission of clinical isolates of <i>Mycobacterium tuberculosis </i> using molecular tools including Spoligotyping. At the Institute of Bioinformatics, he is working on using genomic and proteomic approaches for molecular diagnostics of infectious diseases in collaboration with Kasturba Medical College.<br>
@@ -1364,6 +1388,11 @@ interactions and signal transduction pathways.-->
               <td  bgcolor="#FFFFFF"></td>
               <td height="10"  align="right" bgcolor="#FFFFFF" colspan="6"><a href="#top">TOP</a></td>
             </tr>-->
+
+			<tr>
+              <td  bgcolor="#FFFFFF"></td>
+              <td height="10"  align="right" bgcolor="#FFFFFF" colspan="6"><a href="#top">TOP</a></td>
+            </tr>
             <tr>
               <td width="100" align="left" valign="top" bgcolor="#FFFFFF"><img style="padding: 2 2 2 2; border: solid 1px #9B989A;"src="images/gourav_img.gif" ></td>
               <td height="39" colspan="5" bgcolor="#FFFFFF" valign="top"><p align="justify" style="padding:4 4 4 4;" ><strong>Gourav
@@ -1441,7 +1470,7 @@ interactions and signal transduction pathways.-->
                       <br>
               E-Mail: <a href="mailto:manjula@ibioinformatics.org">manjula at
               ibioinformatics dot org </a></p>              </td>
-            </tr>-->
+            </tr>
             <tr>
               <td  bgcolor="#FFFFFF"></td>
               <td height="10"  align="right" bgcolor="#FFFFFF" colspan="6"><a href="#top">TOP</a></td>
@@ -1483,7 +1512,7 @@ interactions and signal transduction pathways.-->
               <td  bgcolor="#FFFFFF"></td>
               <td height="10"  align="right" bgcolor="#FFFFFF" colspan="6"><a href="#top">TOP</a></td>
             </tr>
-      <!--       <tr>
+             <tr>
               <td width="100" align="left" valign="top" bgcolor="#FFFFFF"><img style="padding: 2 2 2 2; border: solid 1px #9B989A;"src="images/Varot.gif" ></td>
               <td height="39" colspan="5" bgcolor="#FFFFFF" valign="top"><p align="justify" style="padding:4 4 4 4;" ><strong>Varot
           K. Sandhya</strong> obtained her M.Sc. degree in Bioinformatics
@@ -1792,7 +1821,7 @@ E-Mail: <a href="mailto:arun@ibioinformatics.org">arun at ibioinformatics dot or
              <tr>
                <td align="left" valign="top" bgcolor="#FFFFFF">&nbsp;</td>
                <td height="14" colspan="5" align="right" valign="top" bgcolor="#FFFFFF"><a href="#top">TOP</a></td>
-             </tr>-->
+             </tr>
              <tr>
                <td align="left" valign="top" bgcolor="#FFFFFF"><img style="padding: 2 2 2 2; border: solid 1px #9B989A;"src="images/hitendra.jpg" width="100" height="125"></td>
                <td height="127" colspan="5" align="right" valign="top" bgcolor="#FFFFFF">
@@ -1804,7 +1833,7 @@ E-Mail: <a href="mailto:arun@ibioinformatics.org">arun at ibioinformatics dot or
                <td align="left" valign="top" bgcolor="#FFFFFF">&nbsp;</td>
                <td height="14" colspan="5" align="right" valign="top" bgcolor="#FFFFFF"><a href="#top">TOP</a></td>
              </tr>
-             <!--<tr>
+             <tr>
                <td align="left" valign="top" bgcolor="#FFFFFF"><img style="padding: 2 2 2 2; border: solid 1px #9B989A; "src="images/nandan.JPG" width="100" height="125"></td>
                <td height="14" colspan="5" align="right" valign="top" bgcolor="#FFFFFF"><p align="justify" style="padding:4 4 4 4;" >
                  <strong>Nandan M. Varadarajan</strong> obtained his M.Sc. degree in Biotechnology  from Bangalore University, Bangalore. He worked as a Junior Research Fellow under  the guidance of Prof. G. Padamanaban at the Department of Biochemistry, Indian  Institute of Science in Bangalore, where he gained experience in generating  transfection-based gene knockouts in <em>Plasmodium  berghi</em> and several biochemical experiments to investigate heme biosynthetic  pathway during the entire life cycle of malaria parasites. He is currently exploring  transcriptomic and proteomic approaches to investigate molecular alteration in  tuberculosis and neuroinfections at IOB-NIMHANS facility.<br><br>
@@ -2152,10 +2181,7 @@ E-Mail: <a href="mailto:arun@ibioinformatics.org">arun at ibioinformatics dot or
 			    </div></td>
 			    </tr> -->	
 
-				<tr>
-                    <td valign="top"  bgcolor="#FFFFFF">&nbsp;</td>
-                    <td colspan="6"  align="left" valign="top" bgcolor="#FFFFFF"><div align="right"><a href="#top">TOP</a></div></td>
-                </tr>
+				
 				
 				<tr>
 			    <td height="140" valign="top"  bgcolor="#FFFFFF"><img style="padding: 2 2 2 2; border: solid 1px #9B989A;"src="images/new_joinees/Neelam.jpg" ></td>
@@ -2182,7 +2208,33 @@ E-Mail: <a href="mailto:arun@ibioinformatics.org">arun at ibioinformatics dot or
 				<tr>
                     <td valign="top"  bgcolor="#FFFFFF">&nbsp;</td>
                     <td colspan="6"  align="left" valign="top" bgcolor="#FFFFFF"><div align="right"><a href="#top">TOP</a></div></td>
-                </tr> 
+                </tr>
+
+                                <tr>
+                            <td height="140" valign="top"  bgcolor="#FFFFFF"><img style="padding: 2 2 2 2; border: solid 1px #9B989A;" width=100 height=135 src="images/new_joinees/NehaJoshi.jpg" ></td>
+                            <td colspan="6"  align="left" valign="top" bgcolor="#FFFFFF"><div align="justify"><strong>Neha S. Joshi</strong> 
+                            obtained her M.Sc. degree in Biotechnology from Pune University where she worked on analysis and characterization of serum biomarkers in ectopic pregnancy. Subsequently, she worked as a Research Intern at Lupin Biotech where she carried out analysis and characterization of biosimilars using HPLC and LC-MS techniques. At IOB, she is involved in mass spectrometry-based proteomics analysis for identification of cancer biomarkers and potential therapeutic targets. 
+				<p><span style="padding:4 4 4 4;">E-Mail: <a href="mailto:neha@ibioinformatics.org">neha at ibioinformatics dot org</a></span></p>
+
+                            </div></td>
+                            </tr>
+
+                                <tr>
+                    <td valign="top"  bgcolor="#FFFFFF">&nbsp;</td>
+                    <td colspan="6"  align="left" valign="top" bgcolor="#FFFFFF"><div align="right"><a href="#top">TOP</a></div></td>
+                </tr>
+
+				<tr>
+			    <td height="140" valign="top"  bgcolor="#FFFFFF"><img style="padding: 2 2 2 2; border: solid 1px #9B989A;"src="images/new_joinees/Irene.jpg" ></td>
+			    <td colspan="6"  align="left" valign="top" bgcolor="#FFFFFF"><div align="justify"><strong>Irene A. George</strong> obtained her dual degree of BS-MS in Biological Sciences from IISER Thiruvananthapuram. As a part of her Master’s project, she worked on "Complementation study of cultivated and wild type legume (<em>Cajanus and Cicer</em>) CENH3 in <em>Arabidopsis thaliana</em>" at IISER Thiruvananthapuram. She is funded by a Junior Research Fellowship from CSIR, Government of India. She is currently involved in proteomic and phosphoproteomic analysis of cervical cancer.
+			          <p><span style="padding:4 4 4 4;">E-Mail: <a href="mailto:irene@ibioinformatics.org">irene at ibioinformatics dot org</a></span></p>
+			    </div></td>
+			    </tr>	
+
+				<tr>
+                    <td valign="top"  bgcolor="#FFFFFF">&nbsp;</td>
+                    <td colspan="6"  align="left" valign="top" bgcolor="#FFFFFF"><div align="right"><a href="#top">TOP</a></div></td>
+                </tr>
 			<!--	<tr>
 			    <td height="140" valign="top"  bgcolor="#FFFFFF"><img style="padding: 2 2 2 2; border: solid 1px #9B989A;"src="images/new_joinees/gopika.jpg" ></td>
 			    <td colspan="6"  align="left" valign="top" bgcolor="#FFFFFF"><div align="justify"><strong>Gopika Ramesh</strong> obtained her M.Sc. degree in Biochemistry and Molecular Biology from Central University of Kerala, Kerala. She worked as a Research Intern at CSIR- Central Food Technological Research Institute (CFTRI), Mysore on the differentiation mechanism of totipotent fibroblasts cells into adipocytes and identifying the intermediate signaling molecules governing the differentiation. She is funded by the INSPIRE fellowship from the Department of Science and Technology, Government of India. She is currently involved in the <em>ex vivo</em> expansion of circulating tumor cells (CTCs) for individualized drug susceptibility testing in bladder cancer.<p><span style="padding:4 4 4 4;">E-Mail: <a href="mailto:gopika@ibioinformatics.org">gopika at ibioinformatics dot org</a></span></p>
