@@ -136,7 +136,7 @@ function MM_preloadImages() { //v3.0
 <p><b><?php echo ++$Count; ?>. Research Scientist Position at Institute of Bioinformatics, Bangalore with a 2-Year Training Phase at Mayo Clinic, USA</b></p>
 <p>A Research Scientist position is available at the Institute of Bioinformatics, Bangalore (<a href="http://www.ibioinformatics.org">http://www.ibioinformatics.org</a>). As part of this position, the candidate will be funded to undertake a 2-year training phase in Dr. Akhilesh Pandey’s laboratory at Mayo Clinic in Rochester, Minnesota, USA. During this training phase in the USA, the candidate will be paid a competitive salary commensurate with experience (minimum $44,000/year). At the end of training phase, the candidate is expected to take up a Research Scientist (Faculty) position at the Institute of Bioinformatics, Bangalore and an undertaking regarding the same has to be provided by the candidate at the time of selection.</p>
 <p>The Institute of Bioinformatics is a non-profit systems biology research institute carrying out pioneering research in the fields of cancer biology, neurological disorders, infectious diseases and inherited genetic disorders using a number of platforms including genomics, proteomics and computational biology.</p>
-<p>Dr. Pandey’s laboratory (currently at Johns Hopkins University in Baltimore, USA; <a href="http://pandeylab.igm.jhmi.edu" target="_blank">http://pandeylab.igm.jhmi.edu</a>) combines molecular biology, proteomics and genomics to investigate protein-protein interactions and signalling mechanisms underlying pathogenesis of various human diseases including cancer. The selected candidate will perform highly interdisciplinary and collaborative research working with human cell lines, mouse models, and CRISPR/Cas9-based genome editing. Interested candidates should send a single PDF document including a motivation letter, CV and names of three referees to <a href="mailto:careers@ibioinformatics.org">careers@ibioinformatics.org</a>.</p>
+<p>Dr. Pandey’s laboratory (currently at Johns Hopkins University in Baltimore, USA; <a href="http://pandeylab.igm.jhmi.edu" target="_blank">http://pandeylab.igm.jhmi.edu</a>) combines molecular biology, proteomics and genomics to investigate protein-protein interactions and signalling mechanisms underlying pathogenesis of various human diseases including cancer. The selected candidate will perform highly interdisciplinary and collaborative research working with human cell lines, mouse models, and CRISPR/Cas9-based genome editing. Interested candidates should send a single PDF document including a motivation letter, CV and names of three referees to <a href="mailto:careers@ibioinformatics.org">careers [at] ibioinformatics [dot] org</a>.</p>
 
 <p><b>Required Qualifications:</b></p>
 <p>
@@ -161,7 +161,7 @@ function MM_preloadImages() { //v3.0
 
 <p> The Ph.D. thesis work for the selected physicians will be tailored to suit their academic background and research interests and will be carried out at the Institute of Bioinformatics. There are excellent opportunities to interface with clinicians at a number of hospitals and academic medical centers that have ongoing collaborations with the Institute of Bioinformatics including Kidwai Memorial Institute of Oncology in Bangalore, National Institute of Mental Health and NeuroSciences (NIMHANS) in Bangalore and Kasturba Medical College in Manipal. The Ph.D. degree for this unique program will be awarded by the Manipal Academy of Higher Education (MAHE), Manipal.</p>
 
-<p>Interested candidates should send one PDF document including a motivation letter, CV, publication list and contact information for at least three referees to <a href="mailto:careers@ibioinformatics.org">careers@ibioinformatics.org</a>.</p>
+<p>Interested candidates should send one PDF document including a motivation letter, CV, publication list and contact information for at least three referees to <a href="mailto:careers@ibioinformatics.org">careers [at] ibioinformatics [dot] org</a>.</p>
 
 <p><b>Required Qualifications:</b></p>
 <p>
@@ -196,10 +196,10 @@ Applications are invited from talented and passionate candidates to work on seve
 	</ol>
 	</p>
 	<p>Candidates who has secured fellowships from the State/Central Government agencies such as BINC, CSIR-UGC, DBT and DST-INSPIRE will be preferred. </p>
-	<p>Send your CVs to: careers [at] ibioinformatics [dot] org and write &quot;Ph.D.
+	<p>Send your CVs to:  <a href="mailto:careers@ibioinformatics.org">careers [at] ibioinformatics [dot] org</a> and write &quot;Ph.D.
 	  Studentships in Computational Biology&quot; in the Subject field of your e-mail.</p>
 	  
-    <p><b>Last date for application:</b> May 15, 2018. </p>
+    <p><b>Last date for application:</b> May 31, 2018. </p>
 <!--
 <p><b>Qualifications for SRF (5 positions):</b></p>
 <p>
