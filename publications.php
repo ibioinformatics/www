@@ -103,7 +103,7 @@ function MM_preloadImages() { //v3.0
           <tr>
            <td>&nbsp;</td>
             <td colspan="2" rowspan="2" valign="top"><p class="header">Total
-                number of publications - <font color="red">341</font></p>            </td>
+                number of publications - <font color="red">346</font></p>            </td>
             <td>&nbsp;</td>
           </tr>
           <tr>
@@ -117,11 +117,57 @@ function MM_preloadImages() { //v3.0
 		<td height="17"  >&nbsp;</td>
 		<td colspan="2">
 			<p align="justify" class="header">
-				<a name="year_2018"><b>2018 (Number of publications - 27)</b></a>
+				<a name="year_2018"><b>2018 (Number of publications - 33)</b></a>
 			</p>
 		</td>
 		<td>&nbsp;</td>
 	</tr>
+	
+			<tr>
+                <td align="left" valign="top">&nbsp;</td>
+                <td valign="top" style="padding:5 5 0 0;"><img src="images/redbullet.gif" alt="" width="4" ></td>
+                <td valign="top"><div align="justify">Bhat, F. A.,  Advani, J., Khan, A. A., Mohan, S., Pal, A., Gowda, H., Chakrabarti, P., Prasad, T. S. K. and  Chatterjee, A. (2018). A network map of thrombopoietin signaling. <em>Journal of Cell Communication and Signaling.</em> In press.</div>
+                   <br>
+                        </td>
+                <td>&nbsp;</td>
+        </tr>
+		
+			<tr>
+                <td align="left" valign="top">&nbsp;</td>
+                <td valign="top" style="padding:5 5 0 0;"><img src="images/redbullet.gif" alt="" width="4" ></td>
+                <td valign="top"><div align="justify">Khan, A. A., Mangalaparthi, K. K., Advani, J., Prasad, T. S. K., Gowda, H., Jain, D. and Chatterjee, A. (2018). Data from quantitative proteomic analysis of lung adenocarcinoma and squamous cell carcinoma primary tissues using high-resolution mass spectrometry. <em>Data in Brief.</em> In press.</div>
+                   <br>
+                        </td>
+                <td>&nbsp;</td>
+        </tr>
+			
+			<tr>
+                <td align="left" valign="top">&nbsp;</td>
+                <td valign="top" style="padding:5 5 0 0;"><img src="images/redbullet.gif" alt="" width="4" ></td>
+                <td valign="top"><div align="justify">Patil, A. H., Datta, K. K.,  Behera, S. K., Kasaragod, S., Pinto, S. M., Koyangana, S. G., Mathur, P. P., Gowda, H., Pandey, A. and Prasad T. S. K. (2018). Dissecting Candida pathobiology: Post-translational modifications on the <em>Candida tropicalis</em> proteome. <em>OMICS: A Journal of Integrative Biology.</em> In press.</div>
+                   <br>
+                        </td>
+                <td>&nbsp;</td>
+        </tr>
+			
+			<tr>
+                <td align="left" valign="top">&nbsp;</td>
+                <td valign="top" style="padding:5 5 0 0;"><img src="images/redbullet.gif" alt="" width="4" ></td>
+                <td valign="top"><div align="justify">Subbannayya, Y., Karthikkeyan, G., Pinto, S. M., Kapoor, S., Tyagi, A., Pervaje, S. K., Pervaje, R. and Prasad, T. S. K. (2018). Global metabolite profiling and network pharmacology of Triphala identifies neuromodulatory receptor proteins as potential targets. <em>Journal of Proteins and Proteomics.</em> In press.</div>
+                   <br>
+                        </td>
+                <td>&nbsp;</td>
+        </tr>
+			
+			<tr>
+                <td align="left" valign="top">&nbsp;</td>
+                <td valign="top" style="padding:5 5 0 0;"><img src="images/redbullet.gif" alt="" width="4" ></td>
+                <td valign="top"><div align="justify">Subba, P., Pinto, S. M., Kasaragod, S., Chatterjee, O., Najar, A. M. and Prasad, T. S. K. (2018). Nuclear proteome of an orphan legume - <em>Cajanus cajan L</em>. <em>Journal of Proteins and Proteomics.</em> In press.</div>
+                   <br>
+                        </td>
+                <td>&nbsp;</td>
+        </tr>
+			
         <tr>
                 <td align="left" valign="top">&nbsp;</td>
                 <td valign="top" style="padding:5 5 0 0;"><img src="images/redbullet.gif" alt="" width="4" ></td>
@@ -133,7 +179,7 @@ function MM_preloadImages() { //v3.0
 	<tr>
                 <td align="left" valign="top">&nbsp;</td>
                 <td valign="top" style="padding:5 5 0 0;"><img src="images/redbullet.gif" alt="" width="4" ></td>
-                <td valign="top"><div align="justify">Selvan, L. D. N.,  Danda, R., Madugundu, A. K., Puttamallesh, V. N., Sathe, G. J., Krishnan, U. M., Khetan, V., Rishi, P.,  Prasad, T. S. K.,  Pandey, A., Krishnakumar, S., Gowda, H. and Elchuri, A. (2018). Phosphoproteomics of Retinoblastoma: A pilot study identifies aberrant kinases. <em>Molecules.</em> In press.</div>
+                <td valign="top"><div align="justify">Selvan, L. D. N.,  Danda, R., Madugundu, A. K., Puttamallesh, V. N., Sathe, G. J., Krishnan, U. M., Khetan, V., Rishi, P.,  Prasad, T. S. K.,  Pandey, A., Krishnakumar, S., Gowda, H. and Elchuri, A. (2018). Phosphoproteomics of Retinoblastoma: A pilot study identifies aberrant kinases. <em>Molecules.</em> 23, 1454 <a href="https://www.ncbi.nlm.nih.gov/pubmed/29914080" target="_blank">[PubMed]</a>.</div>
                    <br>
                         </td>
                 <td>&nbsp;</td>
@@ -201,8 +247,7 @@ function MM_preloadImages() { //v3.0
 	<tr>
                 <td align="left" valign="top">&nbsp;</td>
                 <td valign="top" style="padding:5 5 0 0;"><img src="images/redbullet.gif" alt="" width="4" ></td>
-                <td valign="top"><div align="justify">Jayaram, S., Balakrishnan, L., Singh, M., Zabihi, A., Ganesh, R. A., Mangalaparthi, K. K., Sonpatki, P., Gupta, M. K., Amaresha, C. B., Prasad, K., Mariswamappa, K., Pillai, S., Lakshmikantha, A., Shah, N. and Sirdeshmukh, R. (2018). Identification of a Novel Splice Variant of Neural Cell Adhesion Molecule
-(NCAM1) in Glioblastoma through Proteogenomic Analysis. <em>OMICS: A Journal of Integrative Biology.</em> In press.</div>
+                <td valign="top"><div align="justify">Jayaram, S., Balakrishnan, L., Singh, M., Zabihi, A., Ganesh, R. A., Mangalaparthi, K. K., Sonpatki, P., Gupta, M. K., Amaresha, C. B., Prasad, K., Mariswamappa, K., Pillai, S., Lakshmikantha, A., Shah, N. and Sirdeshmukh, R. (2018). Identification of a Novel Splice Variant of Neural Cell Adhesion Molecule (NCAM1) in Glioblastoma through Proteogenomic Analysis. <em>OMICS: A Journal of Integrative Biology.</em> 22, 437-448. <a href="https://www.ncbi.nlm.nih.gov/pubmed/29927716" target="_blank">[PubMed]</a></div>
                    <br>
                         </td>
                 <td>&nbsp;</td>
@@ -212,7 +257,7 @@ function MM_preloadImages() { //v3.0
 	<tr>
                 <td align="left" valign="top">&nbsp;</td>
                 <td valign="top" style="padding:5 5 0 0;"><img src="images/redbullet.gif" alt="" width="4" ></td>
-                <td valign="top"><div align="justify">Danda, R., Ganapathy, K., Sathe, G., Madugundu, A. K., Krishnan, U. M., Khetan, V., Rishi, P., Gowda, H., Pandey, A., Subramanian, K., Prasad, T. S. K. and Elchuri, S. V. (2018). Membrane Proteome of Invasive Retinoblastoma: Differential Proteins and Biomarkers. <em>PROTEOMICS – Clinical Applications.</em> In press.</div>
+                <td valign="top"><div align="justify">Danda, R., Ganapathy, K., Sathe, G., Madugundu, A. K., Krishnan, U. M., Khetan, V., Rishi, P., Gowda, H., Pandey, A., Subramanian, K., Prasad, T. S. K. and Elchuri, S. V. (2018). Membrane Proteome of Invasive Retinoblastoma: Differential Proteins and Biomarkers. <em>PROTEOMICS - Clinical Applications.</em> <a href="https://www.ncbi.nlm.nih.gov/pubmed/29742327" target="_blank">[PubMed]</a></div>
                    <br>
                         </td>
                 <td>&nbsp;</td>
@@ -232,7 +277,7 @@ function MM_preloadImages() { //v3.0
 	<tr>
                 <td align="left" valign="top">&nbsp;</td>
                 <td valign="top" style="padding:5 5 0 0;"><img src="images/redbullet.gif" alt="" width="4" ></td>
-                <td valign="top"><div align="justify">Rajagopalan, P., Jain, A. P., Nanjappa, V., Patel, K., Mangalaparthi, K. K., Babu, N., Cavusoglu, N., Roy, N., Soeur, J., Breton, L., Pandey, A., Gowda, H., Chatterjee, A. and Misra, N. (2018). Proteome-wide changes in primary skin keratinocytes exposed to diesel particulate extract – a role for antioxidants in skin health. <em>Journal of Dermatological Science.</em> In press.</div>
+                <td valign="top"><div align="justify">Rajagopalan, P., Jain, A. P., Nanjappa, V., Patel, K., Mangalaparthi, K. K., Babu, N., Cavusoglu, N., Roy, N., Soeur, J., Breton, L., Pandey, A., Gowda, H., Chatterjee, A. and Misra, N. (2018). Proteome-wide changes in primary skin keratinocytes exposed to diesel particulate extract – a role for antioxidants in skin health. <em>Journal of Dermatological Science.</em> <a href="https://www.ncbi.nlm.nih.gov/pubmed/29857962" target="_blank">[PubMed]</a></div>
                    <br>
                         </td>
                 <td>&nbsp;</td>
@@ -241,7 +286,7 @@ function MM_preloadImages() { //v3.0
 <tr>
                 <td align="left" valign="top">&nbsp;</td>
                 <td valign="top" style="padding:5 5 0 0;"><img src="images/redbullet.gif" alt="" width="4" ></td>
-                <td valign="top"><div align="justify">Rajagopalan, P., Patel, K., Jain, A. P., Nanjappa, V., Datta, K. K., Subbannayya, T., Mangalaparthi, K. K., Kumari, A., Manoharan, M., Karunakaran, C., Murugan, S., Nair, B., Prasad, T. S. K., Mathur, P. P., Gupta, R., Gupta, R., Khanna-Gupta, A., Califano, J. A., Sidransky, D., Gowda, H. and Chatterjee, A. (2018). Molecular alterations associated with chronic exposure to cigarette smoke and chewing tobacco in normal oral keratinocytes. <em>Cancer Biology & Therapy.</em> In press.</div>
+                <td valign="top"><div align="justify">Rajagopalan, P., Patel, K., Jain, A. P., Nanjappa, V., Datta, K. K., Subbannayya, T., Mangalaparthi, K. K., Kumari, A., Manoharan, M., Karunakaran, C., Murugan, S., Nair, B., Prasad, T. S. K., Mathur, P. P., Gupta, R., Gupta, R., Khanna-Gupta, A., Califano, J. A., Sidransky, D., Gowda, H. and Chatterjee, A. (2018). Molecular alterations associated with chronic exposure to cigarette smoke and chewing tobacco in normal oral keratinocytes. <em>Cancer Biology & Therapy.</em> <a href="https://www.ncbi.nlm.nih.gov/pubmed/29723088" target="_blank">[PubMed]</a></div>
                    <br>
                         </td>
                 <td>&nbsp;</td>
@@ -261,7 +306,7 @@ function MM_preloadImages() { //v3.0
 	<tr>
                 <td align="left" valign="top">&nbsp;</td>
                 <td valign="top" style="padding:5 5 0 0;"><img src="images/redbullet.gif" alt="" width="4" ></td>
-                <td valign="top"><div align="justify"> Mohanty, A. K., Dey, G., Kumar, M., Sreenivasamurthy S. K., Garg, S., Prasad, T. S. K. and Kumar, A. (2018). Mapping Anopheles stephensi midgut proteome using high-resolution mass spectrometry. <em>Data in Brief.</em> <a href="https://www.sciencedirect.com/science/article/pii/S2352340918301446" target="_blank">[PubMed]</a></div>
+                <td valign="top"><div align="justify"> Mohanty, A. K., Dey, G., Kumar, M., Sreenivasamurthy S. K., Garg, S., Prasad, T. S. K. and Kumar, A. (2018). Mapping Anopheles stephensi midgut proteome using high-resolution mass spectrometry. <em>Data in Brief.</em> 17, 1295-1303. <a href="https://www.sciencedirect.com/science/article/pii/S2352340918301446" target="_blank">[PubMed]</a></div>
                    <br>
                         </td>
                 <td>&nbsp;</td>
@@ -271,12 +316,21 @@ function MM_preloadImages() { //v3.0
 	<tr>
                 <td align="left" valign="top">&nbsp;</td>
                 <td valign="top" style="padding:5 5 0 0;"><img src="images/redbullet.gif" alt="" width="4" ></td>
-                <td valign="top"><div align="justify"> Bhat, M. Y., Advani, J., Rajagopalan, P., Patel, K., Nanjappa, V., Solanki, H. S., Patil, A. H., Bhat, F. A., Mathur, P. P., Nair, B., Prasad, T. S. K., Califano, J. A., Sidransky, D., Gowda, H. and Chatterjee A. (2018). Cigarette smoke and chewing tobacco alter expression of different sets of miRNAs in oral keratinocytes. <em>Scientific Reports.</em> </em> <a href="https://www.ncbi.nlm.nih.gov/pubmed/29728663" target="_blank">[PubMed]</a> </div>
+                <td valign="top"><div align="justify"> Bhat, M. Y., Advani, J., Rajagopalan, P., Patel, K., Nanjappa, V., Solanki, H. S., Patil, A. H., Bhat, F. A., Mathur, P. P., Nair, B., Prasad, T. S. K., Califano, J. A., Sidransky, D., Gowda, H. and Chatterjee A. (2018). Cigarette smoke and chewing tobacco alter expression of different sets of miRNAs in oral keratinocytes. <em>Scientific Reports.</em> 8, 7040. <a href="https://www.ncbi.nlm.nih.gov/pubmed/29728663" target="_blank">[PubMed]</a> </div>
                    <br>
                         </td>
                 <td>&nbsp;</td>
         </tr>
-    
+        <tr>
+                <td align="left" valign="top">&nbsp;</td>
+                <td valign="top" style="padding:5 5 0 0;"><img src="images/redbullet.gif" alt="" width="4" ></td>
+                <td valign="top"><div align="justify">Solanki, H. S., Babu, N., Jain, A. P., Bhat, M. Y., Puttamallesh, V. N., Advani, J., Raja, R., Mangalaparthi, K. K., Kumar, M. M., Prasad, T. S. K., Mathur, P. P., Sidransky, D., Gowda, H. and  Chatterjee, A. (2017). Cigarette smoke induces mitochondrial metabolic reprogramming in lung cells.
+                    <em>Mitochondrion</em>. 40, 58-70. <a href="https://www.ncbi.nlm.nih.gov/pubmed/29042306" target="_blank">[PubMed]</a></div>
+                   <br>
+                        </td>
+                <td>&nbsp;</td>
+        </tr>
+ 
 	<tr>
                 <td align="left" valign="top">&nbsp;</td>
                 <td valign="top" style="padding:5 5 0 0;"><img src="images/redbullet.gif" alt="" width="4" ></td>
@@ -301,7 +355,7 @@ function MM_preloadImages() { //v3.0
      <tr>
                 <td align="left" valign="top">&nbsp;</td>
                 <td valign="top" style="padding:5 5 0 0;"><img src="images/redbullet.gif" alt="" width="4" ></td>
-                <td valign="top"><div align="justify"> Bannerjee, D., Kumar, M., Prasad, T. S. K., Natarajan, A., Christopher, R., Bindu, P. S., Gayathri, N., Nalini, A. and Bharath, M. M. S. (2018). Mitochondrial dysfunction in human skeletal muscle biopsies of lipid storage disorder. <em>Journal of Neurochemistry.</em> <a href="https://www.ncbi.nlm.nih.gov/pubmed/29424033" target="_blank">[PubMed]</a></div>
+                <td valign="top"><div align="justify"> Bannerjee, D., Kumar, M., Prasad, T. S. K., Natarajan, A., Christopher, R., Bindu, P. S., Gayathri, N., Nalini, A. and Bharath, M. M. S. (2018). Mitochondrial dysfunction in human skeletal muscle biopsies of lipid storage disorder. <em>Journal of Neurochemistry.</em> 145, 323-341. <a href="https://www.ncbi.nlm.nih.gov/pubmed/29424033" target="_blank">[PubMed]</a></div>
                    <br>
                         </td>
                 <td>&nbsp;</td>
@@ -399,7 +453,7 @@ function MM_preloadImages() { //v3.0
 		<td height="17"  >&nbsp;</td>
 		<td colspan="2">
 			<p align="justify" class="header">
-				<a name="year_2017"><b>2017 (Number of publications - 27)</b></a>
+				<a name="year_2017"><b>2017 (Number of publications - 26)</b></a>
 			</p>
 		</td>
 		<td>&nbsp;</td>
@@ -411,15 +465,6 @@ function MM_preloadImages() { //v3.0
                 <td valign="top"><div align="justify">Nanjappa, V., Sathe, G. J.,  Jain, A. P., Rajagopalan, P., Raja, R, Subbannayya, T., Patil, A. H., Kumar, P., Prasad, T. S. K., Mathur, P. P., Sidransky, D., Gowda, H. and Chatterjee, A. (2017). Investigation of curcumin mediated signaling pathways in head and neck squamous cell carcinoma.
                     <em>Translational Research in Oral Oncology</em>.
                     <a href="http://journals.sagepub.com/doi/abs/10.1177/2057178X17743142" target="_blank">[PubMed]</a></div>
-                   <br>
-                        </td>
-                <td>&nbsp;</td>
-        </tr>
-	<tr>
-                <td align="left" valign="top">&nbsp;</td>
-                <td valign="top" style="padding:5 5 0 0;"><img src="images/redbullet.gif" alt="" width="4" ></td>
-                <td valign="top"><div align="justify">Solanki, H. S., Babu, N., Jain, A. P., Bhat, M. Y., Puttamallesh, V. N., Advani, J., Raja, R., Mangalaparthi, K. K., Kumar, M. M., Prasad, T. S. K., Mathur, P. P., Sidransky, D., Gowda, H. and  Chatterjee, A. (2017). Cigarette smoke induces mitochondrial metabolic reprogramming in lung cells.
-                    <em>Mitochondrion</em>. 40, 58-70. <a href="https://www.ncbi.nlm.nih.gov/pubmed/29042306" target="_blank">[PubMed]</a></div>
                    <br>
                         </td>
                 <td>&nbsp;</td>
